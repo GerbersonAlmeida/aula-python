@@ -4,7 +4,6 @@ secreto = radom.randint(1, 100)
 tentativas = 3
 
 print("==== Desafio do Número Secreto ====")
-print("==== Desafio do Número Secreto ====")
 
 
 while tentativas > 0:
